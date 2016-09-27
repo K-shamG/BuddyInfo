@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
+//new comment
 public class AddressBook {
 	private List<BuddyInfo> buddyInfo;
 	
