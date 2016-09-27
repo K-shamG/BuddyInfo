@@ -28,4 +28,5 @@ public class AddressBook {
 		book.addBuddy(buddy);
 		book.removeBuddy(0);
 	}
+	//fjdskfh
 }
