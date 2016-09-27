@@ -31,6 +31,10 @@ public class BuddyInfo {
 	public void removeBuddy(BuddyInfo buddy) {
 		buddyInfo.remove(buddy);
 	}
+	
+	public String toString() {
+		return name + "'s number is " + phoneNumber; 
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
